@@ -1,3 +1,4 @@
+package Chapter7;
 import static org.lozybean.util.Print.*;
 
 class Cleanser{
