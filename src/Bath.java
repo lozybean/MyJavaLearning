@@ -15,7 +15,7 @@ public class Bath {
 	// Initializing at point of definition:
 	private String s1="Happy",s2="Happy",s3,s4;
 	private Soap castille;
-	private int i;
+	private int i ;
 	private float toy;
 	public Bath(){
 		println("Inside Bath()");
